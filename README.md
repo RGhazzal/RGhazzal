@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @RGhazzal
-- 👀 I’m interested in python, data analytics, and big data technology.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on python and data analytics projects.
-- 📫 How to reach me ...
-
-<!---
-RGhazzal/RGhazzal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi my name is Raail, I'm a computer scientist with extensive experience in systems administration, infrastructure automation, and performance monitoring. Proficient in Linux, Python, and networking, with a strong focus on ensuring high availability, scalability, and security of mission-critical systems. Skilled in optimizing infrastructure and developing reliable solutions to minimize downtime and enhance overall system performance.
