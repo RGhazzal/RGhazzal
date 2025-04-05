@@ -1,3 +1,17 @@
-WELCOME!
+# 👋 Hi there, I’m Raail!
 
-Hi my name is Raail, I am passionate about advancing the field of data science through innovative approaches to data analytics, predictive modeling, and visualization. My goal is to explore emerging methodologies and technologies such as, machine learning and big data platforms to create impactful, data-driven solutions. I aim to contribute to transformative projects that leverage data to drive meaningful change and business innovation.
+🎓 MS in Data Science candidate (Computational Methods) at DePaul University  
+💻 BSc in Computer Science with a concentration in Software Development & Data Science  
+⚙️ Passionate about predictive modeling, process automation, and turning raw data into actionable insight
+
+## 🔧 Tools & Technologies
+Python | SQL | R | Tableau | Power BI | Spark | Hadoop | AWS | TensorFlow | Scikit-learn | PyTorch | SAS
+
+## 📊 Featured Projects
+- **Customer Churn Prediction** – Built classification models (Logistic Regression, Random Forest, Neural Networks) with 85% accuracy. [View project →](#)
+- **Financial Fraud Detection** – Applied anomaly detection (Isolation Forest, Autoencoders) to reduce fraud loss by 20%. [View repo →](#)
+- **Time-Series Forecasting** – Created ARIMA/Prophet models to support strategic investment planning. [View notebook →](#)
+
+## 📫 Let’s Connect
+- LinkedIn: [Raail Ghazzal](https://www.linkedin.com/in/raail-ghazzal/)
+
