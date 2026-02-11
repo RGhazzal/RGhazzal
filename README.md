@@ -1,8 +1,8 @@
 # 👋 Hi there, I’m Raail!
 
-🎓 MS in Data Science candidate (Computational Methods) at DePaul University  
+🎓 MSc in Data Science with a concentration in Computational Methods & AI/ML at DePaul University  
 💻 BSc in Computer Science with a concentration in Software Development & Data Science  
-⚙️ Passionate about predictive modeling, process automation, and turning raw data into actionable insight
+⚙️ Passionate about predictive maintenance, process automation, and turning raw data into actionable insight
 
 ## 🔧 Tools & Technologies
 Python | SQL | R | Tableau | Power BI | Spark | Hadoop | AWS | TensorFlow | Scikit-learn | PyTorch | SAS
